@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import Counters from "./Components/counters";
 
 // ReactDOM.render(<Counter />, document.getElementById("root"));
-ReactDOM.render(<Counters />, document.getElementById("root"));
+ReactDOM.render(<Counters />, document.getElementById("root")); //nothing changed
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
