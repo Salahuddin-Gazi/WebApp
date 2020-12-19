@@ -1,0 +1,44 @@
+.root2 {
+  width: 700px;
+  height: 550px;
+  margin: 20px auto;
+  border: 3px solid green;
+  padding: 10px;
+  background-image: linear-gradient(30deg, #ff5733, #581845);
+  /* background-color: #581845; */
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+  /* border: thin darkcyan; */
+}
+
+/* .div1 {
+  width: 700px;
+  height: 30px;
+  /* margin: 0px auto 0 0; */
+/* margin-left: auto;
+  margin-right: auto; */
+/* border: 3px solid green; */
+/* padding: 10px; */
+/* align-content: flex-start; */
+/* text-align: left; */
+/* display: block; */
+/* } */
+.insideDiv2 {
+  width: 350px;
+  height: 30px;
+  /* margin: 0px auto 0 0; */
+  /* border: 3px solid green; */
+  /* padding: 10px; */
+  /* align-content: flex-start; */
+  text-align: right;
+}
+.insideDiv1 {
+  width: 350px;
+  height: 30px;
+  /* margin: 0px auto 0 0; */
+  /* border: 3px solid green; */
+  /* padding: 10px; */
+  /* align-content: flex-start; */
+  text-align: left;
+}
