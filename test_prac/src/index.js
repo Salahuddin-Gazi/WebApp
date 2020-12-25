@@ -4,6 +4,9 @@ import Components from "./Component/Component.jsx";
 import Comp from "./Component/Component2.jsx";
 import TestCall from "./Component/test_props_call.jsx";
 import SetState from "./Component/Set_State.jsx";
+import Counter from "./Component/Counter.jsx";
+import Form from "./Component/Form.jsx";
+import Refs from "./Component/Refs.jsx";
 import "./index.css";
 // import App from './App';
 import reportWebVitals from "./reportWebVitals";
@@ -13,7 +16,10 @@ ReactDOM.render(
     <Components />,
     <Comp />,
     <TestCall />,
-    <SetState />
+    <SetState />,
+    <Counter />
+    <Form />
+    <Refs />
   </React.StrictMode>,
   document.getElementById("root")
 );
